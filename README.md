@@ -10,11 +10,10 @@ A Streamlit web app that simulates long-term investment growth using compound in
 
 ## 🖼 App Screenshots
 
-**CSV Upload Interface** ![Upload](images/upload.png)
+**CSV Upload Interface** ![Upload](images/upload_v2.png)
 **Cleaned Portfolio View** ![Portfolio](images/portfolio.png)
 **Simulation Settings Panel** ![Sliders](images/sliders.png)
 **Portfolio Growth Chart** ![Chart](images/chart.png)
-
 
 ---
 
