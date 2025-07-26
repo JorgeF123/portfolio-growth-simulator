@@ -11,16 +11,17 @@ A Streamlit web app that simulates long-term investment growth using compound in
 ## 🖼 App Screenshots
 
 **CSV Upload Interface**  
-![Upload](./Screenshot%202025-07-25%20at%206.56.34%E2%80%AFPM.png)
+![Upload](images/upload.png)
 
 **Cleaned Portfolio View**  
-![Portfolio](./Screenshot%202025-07-25%20at%206.56.58%E2%80%AFPM.png)
+![Portfolio](images/portfolio.png)
 
 **Simulation Settings Panel**  
-![Sliders](./Screenshot%202025-07-25%20at%206.57.10%E2%80%AFPM.png)
+![Sliders](images/sliders.png)
 
 **Portfolio Growth Chart**  
-![Chart](./Screenshot%202025-07-25%20at%206.57.28%E2%80%AFPM.png)
+![Chart](images/chart.png)
+
 
 ---
 
@@ -68,7 +69,7 @@ streamlit run main.py
 ```
 ## 👨‍💻 About Me
 
-Hi, I'm Jorge — a self-taught developer and student with a strong interest about data, investing, and building useful tools.  
+Hi, I'm Jorge a self-taught developer and student with a strong interest in data, investing, and building useful tools.  
 - 🔗 GitHub: [JorgeF123](https://github.com/JorgeF123)  
 - 📫 Email: jorgefloresramires01@gmail.com
 
