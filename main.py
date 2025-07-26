@@ -122,8 +122,8 @@ def plot_projection(total_value):
     ax.set_title('Projected Portfolio Growth') # main title
     ax.set_xlabel('Years') # Weeks appears below the axis
 
-    ax.set_xticks([i * 52 for i in range(0, len(values) // 52 + 1, max(1, len(values) // (52 * 10)))])
-    ax.set_xticklabels([str(i) for i in range(0, len(values) // 52 + 1, max(1, len(values) // (52 * 10)))])
+    ax.set_xticks([i * 52 for i in range(0, len(total_value) // 52 + 1, max(1, len(total_value) // (52 * 10)))])
+    ax.set_xticklabels([str(i) for i in range(0, len(total_value) // 52 + 1, max(1, len(total_value) // (52 * 10)))])
 
     ax.set_ylabel('Portfolio Value') # Portfolio Value appears  on the Y axis
     ax.legend(loc='upper left') # adds a box to show which line belongs to what stock
