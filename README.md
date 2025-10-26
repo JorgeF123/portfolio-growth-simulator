@@ -1,4 +1,4 @@
-# 📈 Portfolio Growth Simulator
+# Portfolio Growth Simulator
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-brightgreen)
@@ -8,9 +8,9 @@ A Streamlit web app that simulates long-term investment growth using compound in
 
 ---
 
-## 🖼 App Screenshots
+## App Screenshots
 
- <b>CSV Upload Interface</b><br>
+<b>CSV Upload Interface</b><br>
 <img src="images/upload_v2.png" width="700"><br><br>
 <b>Cleaned Portfolio View</b><br>
 <img src="images/portfolio.png" width="700"><br><br>
@@ -22,7 +22,7 @@ A Streamlit web app that simulates long-term investment growth using compound in
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Upload your portfolio as a CSV file
 2. Set your weekly investment amount, expected annual growth rate, and volatility level
@@ -32,7 +32,7 @@ A Streamlit web app that simulates long-term investment growth using compound in
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload your stock portfolio as a CSV  
 - Adjust growth %, volatility, and contribution amount  
@@ -43,10 +43,11 @@ A Streamlit web app that simulates long-term investment growth using compound in
 
 ---
 
-## 📄 Sample Portfolio CSV
+## Sample Portfolio CSV
 
 Use this file to test the app:  
-[👉 sample_portfolio_with_values.csv](portfolio.csv)
+[Download portfolio.csv](https://raw.githubusercontent.com/JorgeF123/portfolio-growth-simulator/main/data/portfolio.csv)
+
 
 ---
 
@@ -56,7 +57,7 @@ AAPL,10,195.12
 MSFT,5,410.23
 TSLA,8,870.50
 ```
-## 📦 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/JorgeF123/portfolio-growth-simulator.git
@@ -64,9 +65,4 @@ cd portfolio-growth-simulator
 pip install -r requirements.txt
 streamlit run main.py
 ```
-## 👨‍💻 About Me
-
-Hi, I'm Jorge a self-taught developer and student with a strong interest in data, investing, and building useful tools.  
-- 🔗 GitHub: [JorgeF123](https://github.com/JorgeF123)  
-- 📫 Email: jorgefloresramires01@gmail.com
 
